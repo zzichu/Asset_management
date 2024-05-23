@@ -4,8 +4,9 @@
 * 개발 기간 : 2023.09.01 ~ 2023.12.
 * 개발 환경 : Python, DRF(Django Rest Framework), MySQL, Flask, HTML5, CSS3, JavaScript
 * 주요 기능
-  * QR코드 생성 및 인식
-  * 대여 및 반환 상태 변경
+  * QR코드 생성 및 상품 등록
+  * QR코드 인식 후 대여 및 반환 상태 변경
+  * 상태 변경에 따른 하루, 주 단위의 통계
 
 ![표지](https://github.com/zzichu/Asset_management/assets/114422496/1ba23e18-9cf7-45dd-b8a2-e1c0943365ad)
 ![목차](https://github.com/zzichu/Asset_management/assets/114422496/ea14731f-fdbc-405d-b71d-f427d4e2fb3b)
