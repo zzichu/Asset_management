@@ -1,5 +1,12 @@
 <h1>재고 관리 시스템</h1>
 
+* 주제 : QR인식을 활용한 재고 관리 시스템
+* 개발 기간 : 2023.09.01 ~ 2023.12.
+* 개발 환경 : Python, DRF(Django Rest Framework), MySQL, Flask, HTML5, CSS3, JavaScript
+* 주요 기능
+  * QR코드 생성 및 인식
+  * 대여 및 반환 상태 변경
+
 ![표지](https://github.com/zzichu/Asset_management/assets/114422496/1ba23e18-9cf7-45dd-b8a2-e1c0943365ad)
 ![목차](https://github.com/zzichu/Asset_management/assets/114422496/ea14731f-fdbc-405d-b71d-f427d4e2fb3b)
 ![개발환경](https://github.com/zzichu/Asset_management/assets/114422496/e1abcc4d-d9d8-4e32-be97-c1e42a341090)
